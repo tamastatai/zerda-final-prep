@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/tamastatai/zerda-final-prep#readme",
   "devDependencies": {
+    "eslint": "^3.16.0",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
     "tape": "^4.6.3"
   },
   "dependencies": {
