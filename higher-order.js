@@ -32,7 +32,7 @@ var ramonesFull = ramones.forEach((e) => {
 // map
 
 // var numbers = [11, 666, 12, 42, 88, 220, -99];
-// const tenTimes = numbers.map((e) =>{
+// const tenTimes = numbers.map((e) => {
 //   return e * 10;
 // });
 // console.log(tenTimes);
