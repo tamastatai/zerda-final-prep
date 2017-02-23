@@ -58,7 +58,7 @@ https://github.com/tamastatai/zerda-final-prep/blob/master/test.js
   - Split bigger functions to smaller ones
   - Separate functions to different files
   - Point out code smells
-  - Name 3 design patterns
+  - Name 3 design patterns: Constructor / Module / Revealing module / Factory
 - Understand how the internet works
   - Name the parts of an URL
     / Uniform Resource Locator (URL)
